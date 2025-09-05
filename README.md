@@ -7,7 +7,7 @@ Everyday learner, dedicated to writing clean, maintainable, and performant code.
 
 ### Dogzilla
 A fast-paced **game jam project** submitted for *Gameplay First Jam 2025* in Irvine, CA.  
-🔗[itch.io Page](https://artbooze.itch.io/dgzlmtlcr), [Watch Trailer](https://youtu.be/_PIY8mFi9Q8?si=8ULXt4F0v7aoJyRW)
+🔗[View on GitHub](https://github.com/serj13ag/MSDOG), 🔗[itch.io Page](https://artbooze.itch.io/dgzlmtlcr), [Watch Trailer](https://youtu.be/_PIY8mFi9Q8?si=8ULXt4F0v7aoJyRW)
 
 ### Line Shooter  
 A **test task project** that led to a successful job offer.  
