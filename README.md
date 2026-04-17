@@ -1,9 +1,9 @@
-# Hi, I'm Serj Agafonov! 👋
+# Hi, I'm Serj Agafonov!
 
 **Unity Developer** with Engineering background. Passionate about videogames and programming.  
 Everyday learner, dedicated to writing clean, maintainable, and performant code.
 
-## 🚀 Projects
+## Projects
 
 ### Dogzilla
 A fast-paced **game jam project** submitted for *Gameplay First Jam 2025* in Irvine, CA.  
@@ -17,19 +17,19 @@ A **test task project** that led to a successful job offer.
 A **Match-3 puzzle game** released on web platform.  
 🔗[View on GitHub](https://github.com/serj13ag/PixelMatch)
 
-## 📂 Other Notable Work
+## Other Notable Work
 
 ### ORX
 My main **commercial project** as a part of the development team.  
 🔗[View on Steam](https://store.steampowered.com/app/1071140/ORX/)
 
-## 📫 How to reach me
+## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/sagafonov/)
-- [Email](mailto:serj13g@gmail.com)
+- [Email](mailto:serj.ag.work@gmail.com)
 - [Telegram](https://t.me/serjag)
 - Discord: serj13
 
 ---
 
-✨ Thanks for stopping by! Feel free to check out my projects and connect with me.
+Thanks for stopping by! Feel free to check out my projects and connect with me.
