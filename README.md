@@ -21,6 +21,10 @@ A test task project that led to a successful job offer.
 A Match-3 puzzle game released on web platform.  
 🔗[View on GitHub](https://github.com/serj13ag/PixelMatch)
 
+### Quantum
+A PvP shooter prototype built with Photon Quantum to demonstrate familiarity with the deterministic ECS workflow, gameplay systems, and networking patterns used in Quantum.  
+🔗[View on GitHub](https://github.com/serj13ag/Quantum)
+
 ## Other Notable Work
 
 ### ORX
